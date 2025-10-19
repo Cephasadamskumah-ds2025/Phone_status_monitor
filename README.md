@@ -1,11 +1,11 @@
-📱 #Phone Status Monitor Simulator
+📱 Phone Status Monitor Simulator
 ---
 A simple Python OOP project that simulates the behavior of a mobile phone.
 The simulator keeps track of your phone’s battery, balance, and data, and lets you perform everyday actions like charging, topping up, making calls, and browsing.
 
 ---
 
-🔑 ##Features
+🔑 Features
 ---
 - Battery Monitoring → charge the phone by time or by percent.
 - Balance Tracking → top up in dollars and use it for calls or data.
@@ -19,7 +19,7 @@ The simulator keeps track of your phone’s battery, balance, and data, and lets
 
 ---
 
-🎯 ##Learning Goals
+🎯 Learning Goals
 ---
 This project is designed for beginners learning OOP in Python.
 
